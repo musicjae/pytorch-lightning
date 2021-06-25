@@ -72,9 +72,6 @@ transformed_dataset = CustomDataset(csv_file='sample/labels.csv',root_dir='sampl
                                                                   transforms.Resize(size=(args.img_size, args.img_size))
                                                                   ]))
 
-
-for i in transformed_dataset:
-    print(i)
 """
 (3) DataLoader로 감싸기
 """
