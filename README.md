@@ -12,6 +12,17 @@
 The Data Imbalance is the case that some classes are more than others in a dataset, so it might make the neural model to predict tendentiously the frequent classes. There are a lot of research to resolve this data imbalnce problem in multi-label classification. Among them, we use the popular resolution SMOTE.
 
 
+### Experiments
+
+I used extremely small data for image classification. (only 5)
+<br>
+| Architecture | Train Loss | Test Loss |
+|-------|-------|-------|
+|MLP|  ||
+|gMLP| 0.906 ||
+
+
+
 
 ### References 
 [1] https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede  
