@@ -20,7 +20,7 @@ The Data Imbalance is the case that some classes are more than others in a datas
 
 [3] Liu, Hanxiao, et al. "Pay Attention to MLPs." arXiv preprint arXiv:2105.08050 (2021).  
 
-[4] https://github.com/antonyvigouret/Pay-Attention-to-MLPs/blob/master/models.py code reference
+[4] https://github.com/antonyvigouret/Pay-Attention-to-MLPs/blob/master/models.py
 
 ### My Presentation for this paper [3]
 
