@@ -18,8 +18,8 @@ I used extremely small data for image classification. (only 5)
 <br>
 | Architecture | Train Loss | Test Loss |
 |-------|-------|-------|
-|MLP| 1.61 ||
-|gMLP| 0.395 ||
+|MLP| 0.282 ||
+|gMLP| 7e-4 ||
 
 - gMLP is better lol :D
 
